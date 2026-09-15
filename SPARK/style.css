@@ -1,0 +1,12 @@
+        h1{
+            background-color: aqua;
+            }
+        p{color: blueviolet;}
+
+        .box>p{color: aqua;}
+        div>p{color: yellow;
+        border: groove yellow;
+        
+        
+        }
+        #op{background-color: red;}

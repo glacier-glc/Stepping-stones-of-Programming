@@ -1,0 +1,44 @@
+*{
+    /* background-color: rgb(21, 255, 0); */
+    margin: 10px;
+    
+    /* margin dont add */
+    /* just the bigger one is implemented */
+    padding: 1px;
+}
+.box{
+    border: 2px;
+    padding: 2px;
+    border-color: rgb(0, 161, 40);
+    border-style: dashed;
+    margin: 2px;
+    height: 200px;
+    width: 200px;
+    box-sizing: border-box;
+
+    background-color: aqua;
+}
+.light{
+    margin: 16px;
+    padding: 40px 10px 5px 6px; 
+        /* top left bottom right */
+    background-color: blueviolet;
+}
+.container{
+    border: 2px;
+    width: 300px;
+    border-color: black;
+    padding: 2px;
+}
+/* .absolute-box{
+    margin: 20px;
+    position: absolute;
+    top: 20px;
+    left: 50px;
+
+}
+.boot{
+    position: relative;
+    top: 100px; 
+
+} */

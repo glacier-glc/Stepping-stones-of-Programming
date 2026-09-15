@@ -1,0 +1,10 @@
+*{
+    
+    background-image: url("https://images5.alphacoders.com/335/thumb-1920-335133.jpg");
+    image-rendering: optimizeQuality;
+}
+.box{
+    background-origin: 0 0;
+    background-color: brown;
+    
+}
