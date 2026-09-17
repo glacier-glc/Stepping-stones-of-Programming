@@ -22,3 +22,9 @@ uploading and downloading commits
 
 to restore changes from staging area
     git restore --staged "***"
+
+
+to ignore a file
+    create a file .gitignore
+        and write the name of file you want to be ignored
+
