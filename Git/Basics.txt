@@ -1,0 +1,24 @@
+git configuration 
+    git config --global user.name "*****"
+    git config --global user.email "*****"
+
+
+git 4 big commmands
+    git init
+    git status
+    git add || git add . 
+    git commit -m "*****"
+
+
+git log
+    git log
+    git log --oneline
+
+
+uploading and downloading commits
+    git push
+    git pull
+    
+
+to restore changes from staging area
+    git restore --staged "***"
