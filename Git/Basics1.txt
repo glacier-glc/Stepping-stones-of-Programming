@@ -28,3 +28,8 @@ to ignore a file
     create a file .gitignore
         and write the name of file you want to be ignored
 
+to track a file or directory 
+    create .gitkeep
+        and enter the name of folder in the file 
+
+
