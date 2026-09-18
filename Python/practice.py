@@ -1,1 +1,0 @@
-print("lists generator")
